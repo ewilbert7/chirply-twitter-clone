@@ -21,5 +21,3 @@ chmod +x run_server.sh
 
 ```
 The script compiles the Java files with the needed JSON libraries and starts the sevrer
-
-**Thank you for the practical!**
